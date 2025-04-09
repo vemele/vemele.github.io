@@ -1,0 +1,46 @@
+/* Estilo minimalista inspirado en blogs personales elegantes */
+
+body {
+  font-family: 'Georgia', serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #111;
+  background: #fff;
+  max-width: 680px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
+nav {
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 1rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+header, footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #999;
+  margin: 3rem 0;
+}

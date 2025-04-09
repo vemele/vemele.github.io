@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">Mi Sitio</a></h1>
+    <nav>
+      <a href="/">Inicio</a> |
+      <a href="/about/">Sobre mí</a> |
+      <a href="/contact/">Contacto</a> |
+      <a href="/posts/">Posts</a>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <p>© {{ "now" | date("yyyy") }} Mi Sitio</p>
+  </footer>
+</body>
+</html>
