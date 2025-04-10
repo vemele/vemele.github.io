@@ -2,27 +2,31 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="stylesheet" href="/styles/main.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
-<img src="/assets/foto.jpg" alt="Mi foto profesional" class="avatar" />
+
+  <img src="/assets/foto.jpg" alt="Foto profesional" class="avatar" />
 
   <header>
-    <h1><a href="/">Mi Sitio</a></h1>
+    <h1><a href="/">Verónica Mery</a></h1>
+    <p>Futurismo suave, escritura creativa y tecnología personal</p>
     <nav>
       <a href="/">Inicio</a> |
       <a href="/about/">Sobre mí</a> |
       <a href="/contact/">Contacto</a> |
-      <a href="/posts/">Posts</a>
+      <a href="/posts/">Publicaciones</a>
     </nav>
   </header>
+
   <main>
     {{ content | safe }}
   </main>
+
   <footer>
-    <p>© {{ "now" | date("yyyy") }} Mi Sitio</p>
+    <p>© {{ "now" | date("yyyy") }} Verónica Mery</p>
   </footer>
 </body>
 </html>
