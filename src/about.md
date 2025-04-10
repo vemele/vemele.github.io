@@ -10,4 +10,4 @@ Este sitio es mi espacio personal, un lugar donde comparto ideas —a veces en f
 
 Actualmente trabajo en [Tecnología Crítica](https://criti.ca/).
 
-Si queieres conocer un poco más sobre mí, puedes leer [esta pequeña bio](/posts/mi-biografia/).  
+Si quieres conocer un poco más sobre mí, puedes leer [esta pequeña bio](/posts/mi-biografia/).  
