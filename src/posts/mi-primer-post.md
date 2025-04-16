@@ -13,12 +13,12 @@ Así nació esta página: como una forma de recuperar soberanía técnica y narr
 
 Para quienes no lo conocen, Eleventy es un generador de sitios estáticos. Eso significa que todas las páginas se crean de forma anticipada y se sirven como archivos HTML simples, sin bases de datos ni servidores intermedios. 
 
-Además, escribir en Markdown me permite mantener los textos simples, legibles, y versionables. Todo está guardado en un repositorio de GitHub, y se publica con GitHub Pages: una forma gratuita y _relativamente_ segura de tener un sitio en línea.
+ Todo está guardado en un repositorio de GitHub, y se publica con GitHub Pages: una forma gratuita y _relativamente_ segura de tener un sitio en línea.
 
 Me gusta pensar que este sitio es mi “notebook público”: un lugar donde puedo escribir con calma, sin perseguir likes, sin ruido.
 
 Tengo muchas cosas pendientes por mejorar: ajustar detalles visuales, agregar una sección de lecturas, commprar un dominio(?) quizás alojarlo en otra plataforma o en un servidor propio.
 
-En el fonod, quiero aprendizaje técnico y autonomía digital.
+En el fondo, quiero aprendizaje técnico y autonomía digital.
 
 Pero por ahora, estoy contenta con esto.  
