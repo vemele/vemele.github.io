@@ -7,9 +7,10 @@ tags: post
 
 # El celular como evidencia y datos sensibles
 
-Hace ya algunas semanas, [se filtraron conversaciones privadas entre la diputada Karol Cariola y la ex alcaldesa Irací Hassler](https://www.latercera.com/nacional/noticia/los-chats-de-karol-cariola-gestiones-para-amigos-contratos-en-santiago-y-duras-criticas-al-gobierno/). Fue un escándalo breve, con mucha exposición mediática. Pero entre todo el ruido, pocos parecen reparar en lo más importante: cuáles deberían ser los límites para proteger la privacidad cuando la justicia decide requisar un teléfono.
+Hace ya algunas semanas, [se filtraron conversaciones privadas entre la diputada Karol Cariola y la ex alcaldesa Irací Hassler](https://www.latercera.com/nacional/noticia/los-chats-de-karol-cariola-gestiones-para-amigos-contratos-en-santiago-y-duras-criticas-al-gobierno/). Fue un escándalo breve, y con mucha exposición mediática. Pero entre todo el ruido, pocos parecen reparar en lo más importante: cuáles deberían ser los límites para proteger la privacidad cuando la justicia decide requisar un teléfono.
 
-El teléfono es un archivo completo de nuestras vidas. Fotos, ideas, relaciones, conversaciones con amigos, planes, listas de compras, fotos íntimas. Absolutamente todo está ahí. Entonces, cuando la fiscalía accede a un celular, accede a todo. ¿Pero de verdad todo debe ser revisado, copiado y eventualmente expuesto?
+El teléfono es un archivo completo de nuestras vidas. Fotos, ideas, relaciones, conversaciones con amigas, planes, listas de compras, fotos íntimas. Absolutamente todo está ahí. Entonces, cuando la fiscalía accede a un celular, accede a todo. ¿Pero de verdad todo debe ser revisado, copiado y eventualmente expuesto?
+
 La legislación chilena no lo impide. Si una persona está siendo investigada, su teléfono puede ser incautado por orden judicial. Y, al hacerlo, naturalmente, es posible encontrar información que no estaba originalmente en la mira, pero que permite perseguir nuevos delitos.
 
 Y claro, poner límites a ese acceso total tendría un costo. Quizás se pierdan oportunidades para descubrir o probar otros delitos. Pero los derechos existen precisamente para poner frenos. El derecho a la privacidad no es negociable solo porque puede resultar “útil” mirar lo que hay detrás de una pantalla. Y si queremos vivir en una sociedad libre, ese derecho debe tener un peso real, incluso —y sobre todo— cuando el Estado lo pone a prueba.

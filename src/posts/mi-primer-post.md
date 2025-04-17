@@ -17,7 +17,7 @@ Para quienes no lo conocen, Eleventy es un generador de sitios estáticos. Eso s
 
 Me gusta pensar que este sitio es mi “notebook público”: un lugar donde puedo escribir con calma, sin perseguir likes, sin ruido.
 
-Tengo muchas cosas pendientes por mejorar: ajustar detalles visuales, agregar una sección de lecturas, commprar un dominio(?) quizás alojarlo en otra plataforma o en un servidor propio.
+Tengo muchas cosas pendientes por mejorar: ajustar detalles visuales, agregar una sección de lecturas, comprar un dominio (?) quizás alojarlo en otra plataforma o en un servidor propio.
 
 En el fondo, quiero aprendizaje técnico y autonomía digital.
 
