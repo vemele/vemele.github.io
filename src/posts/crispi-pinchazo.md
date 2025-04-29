@@ -6,7 +6,7 @@ tags: post
 
 # El celular de Crispi, pinchazos y las medidas intrusivas
 
-Hace unos días, se supo algo que, en cualquier democracia que se tome en serio, debería haber generado alarma inmediata: [el jefe del Segundo Piso de La Moneda, Miguel Crispi, tenía intervenido su teléfono desde hace varios meses](https://www.latercera.com/nacional/noticia/el-pinchazo-al-celular-de-crispi-que-dio-origen-a-la-investigacion-penal-contra-isabel-allende/). Es decir, durante semanas, las conversaciones del principal asesor del Presidente Gabriel Boric fueron monitoreadas y transcritas por la policía.
+Hace unos días, se supo algo que, en cualquier democracia que se tome en serio, debería haber generado alarma inmediata: [el jefe del Segundo Piso de La Moneda, Miguel Crispi, tenía intervenido su teléfono desde hace varios meses](https://www.latercera.com/nacional/noticia/el-pinchazo-al-celular-de-crispi-que-dio-origen-a-la-investigacion-penal-contra-isabel-allende/). Es decir, durante semanas, las conversaciones del principal asesor del Presidente Gabriel Boric fueron monitoreadas.
 
 No fue un error. No fue una filtración ocasional. Fue una medida judicial autorizada y sostenida en el tiempo. El problema no es solo la posible afectación a su privacidad. Es que nadie parece estar viendo el fondo: ¿cómo puede ser que algo tan intrusivo se permita con tanta facilidad?
 
