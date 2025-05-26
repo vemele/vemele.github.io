@@ -1,26 +1,22 @@
-const { DateTime } = require("luxon");
+const { DateTime } = require("luxon"); // ← esto va al inicio
 
 module.exports = function(eleventyConfig) {
-  // Filtro para formatear fechas
-  eleventyConfig.addFilter("date", (value, format = "yyyy") => {
-    return DateTime.fromJSDate(new Date(value)).toFormat(format);
+  // 🗓️ Filtro personalizado para formatear fechas
+  eleventyConfig.addFilter("date", function(dateObj, format = "dd/MM/yyyy") {
+    return DateTime.fromJSDate(dateObj).toFormat(format);
   });
 
-  // Colección de posts
-  eleventyConfig.addCollection("posts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/posts/*.md").reverse();
+  // 📚 Colección de posts
+  eleventyConfig.addCollection("posts", function(collection) {
+    return collection.getFilteredByTag("post").reverse();
   });
 
-  // Archivos estáticos
-  eleventyConfig.addPassthroughCopy("styles");
-  eleventyConfig.addPassthroughCopy("assets");
-
+  // 📁 Configuración de carpetas
   return {
     dir: {
       input: "src",
       includes: "_includes",
       output: "docs"
-    },
- 
+    }
   };
 };
