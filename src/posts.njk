@@ -6,7 +6,7 @@ title: Publicaciones
 <h1>Publicaciones</h1>
 
 <ul>
-  {% for post in collections.posts %}
+  {% for post in collections.post %}
     <li>
       <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       <small>({{ post.date | date("dd/MM/yyyy") }})</small>

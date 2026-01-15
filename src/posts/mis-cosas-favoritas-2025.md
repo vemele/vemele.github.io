@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
-title: Mi biografía
-date: 2026-01-13
+title: Mis cosas favoritas de 2025 (quizás no tan especiales, pero sinceras)
+date: 2026-01-12
 tags: post
 ---
 
@@ -11,7 +11,7 @@ Me gusta harto leer, escuchar música sin descanso y, si no me quedo dormida, ve
 
 ## Lecturas
 
-Haciendo un repaso rapidísimo de lo que leí durante 2025, sin duda mi libro favorito fue **[*Marciano*](https://www.penguinlibros.com/co/novela-historica/459823-libro-marciano-9786287811249)**, de **Nona Fernández**.  Esta novela se sumerge en la historia a través de  **Mauricio Hernández Norambuena**, el *Comandante Ramiro*, ex integrante del Frente Patriótico Manuel Rodríguez.
+Haciendo un repaso rapidísimo de lo que leí durante 2025, sin duda mi libro favorito fue **[*Marciano*](https://www.penguinlibros.com/co/novela-historica/459823-libro-marciano-9786287811249)**, de **Nona Fernández**.  Esta novela se sumerge en la historia de Mauricio Hernández Norambuena, el *Comandante Ramiro*, ex integrante del Frente Patriótico Manuel Rodríguez.
 
 Personalmente, nunca me ha tomado mucho leer sobre la dictadura chilena, pero este año mis lecturas estuvieron especialmente marcadas por estas historias. Nona Fernández entrevistó durante un año a Hernández en la cárcel y con ese material construye un libro precioso y profundamente humano. Leí la primera página y me dio rabia lo mucho que me iba a gustar.
 
@@ -24,8 +24,7 @@ También incluyo entre mis favoritos **_Nada se opone a la noche_**, de **Delphi
 
 ## Música
 
-En lo musical, tengo mucho que decir. Pero por lo pronto, les dejo mi descubrimiento 2025, ante tanto dj set que anda por ahí: Mike 
-[Mike O'Leary](https://www.youtube.com/watch?v=Qviu1K_2l1o) (sí, *KEEP GOING MICHAEL*).  Me acompañó bastante los domingos limpiando la casa
+En lo musical, tengo mucho que decir. Pero por lo pronto, les dejo mi descubrimiento 2025, ante tanto dj set que anda por ahí: [Mike O'Leary](https://www.youtube.com/watch?v=Qviu1K_2l1o) (sí, *KEEP GOING MICHAEL*).  Me acompañó bastante los domingos limpiando la casa.
 
 Haré otro posteo sobre esto, calma.
 
