@@ -17,15 +17,12 @@ En Chile, la interceptación de comunicaciones —como llamadas, correos electr�
 
 El estándar, al menos en el papel, suena exigente. Pero en la práctica, basta con que un solo juez autorice la medida mediante una resolución fundada, sin que exista un verdadero control sobre la proporcionalidad de su uso. No hay revisión superior. No hay estadística pública clara sobre cuántas interceptaciones se hacen, a quiénes afectan ni con qué resultado.
 
-Paradójicamente, para acceder a ciertos documentos protegidos por secreto o reserva, la disputa puede escalar hasta la Corte Suprema (como señala el artículo 218 del CPP). Para leer un archivo, se exige más que para escuchar conversaciones privadas.
-
 ## Pero hay algo peor que interceptar un celular: meterse entero en él
 
 Desde 2023, el Ministerio Público cuenta con una nueva herramienta: el registro remoto de equipos informáticos, regulado en el artículo 225 bis del CPP. Esta facultad permite acceder a la totalidad del contenido de un dispositivo: mensajes, fotos, historial de navegación, notas, correos, aplicaciones. Todo. Incluso contenido almacenado remotamente (en la nube, por ejemplo). Y aquí viene lo más grave: para autorizar esta medida no se exige que sea “imprescindible”. Basta con que existan “fundadas sospechas”. Ni siquiera se limita a delitos gravísimos: puede aplicarse a delitos menos graves, siempre que haya una supuesta asociación ilícita detrás.
 
 En otras palabras: la diligencia más invasiva de todo el sistema puede activarse con los requisitos más laxos.
 
+Lo de Crispi puede tener implicancias en la seguridad nacional, sí. Pero el problema de fondo va más allá del cargo o del contexto político. Intervenir un celular no es lo mismo que pedir una carpeta. Es como sacar sangre. Es acceder al núcleo mismo de la vida de una persona. Y eso no puede quedar sujeto a un estándar liviano.
 
-Lo de Crispi puede tener implicancias en la seguridad nacional, sí. Pero el problema de fondo va más allá del cargo o del contexto político. Intervenir un celular no es lo mismo que pedir una carpeta. Es como sacar sangre. Es acceder al núcleo mismo de la vida de una persona: sus relaciones, emociones, estrategias, intimidades. Y eso no puede quedar sujeto a un estándar liviano.
-
-Si de verdad queremos modernizar el Código Procesal Penal, como se ha anunciado, este debe ser uno de los nudos críticos a abordar. Hoy, tenemos un sistema que exige más para mirar un papel que para escuchar tus conversaciones o revisar tu galería de fotos. No es razonable. No es proporcionado. Y, definitivamente, no es democrático.
+Si de verdad queremos modernizar el Código Procesal Penal, como se ha anunciado, este debe ser uno de los nudos críticos a abordar. Hoy, tenemos un sistema que exige más para mirar un papel que para escuchar tus conversaciones o revisar tu galería de fotos. No es razonable. Y sobre todo, no es proporcional. Y, definitivamente, no es democrático.

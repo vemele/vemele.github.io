@@ -1,5 +1,5 @@
 ---
-title: "Quiero un celular mas tonto"
+title: "Quiero un celular más tonto"
 date: 2025-05-26
 tags: post
 layout: layout.njk
@@ -9,7 +9,7 @@ layout: layout.njk
 
 Escuché un buen podcast sobre cómo reducir la adicción al celular sin necesidad de fuerza de voluntad o meditación ([link aquí](https://www.searchengine.show/how-to-stop-being-so-phone-addicted-without-self-discipline-or-meditation/?ueid=665abc769dbe1dad83291428697b9951&utm_source=Sailthru&utm_medium=email&utm_campaign=2025-05-17%20Installer%2083&utm_term=Installer)).
 
-El podcast me hizo pensar en algo que siempre me da muchas vueltas en mi caebza, respecto a lo automático que se ha vuelto nuestro vínculo con el teléfono. Entrar al baño y tomarlo sin pensarlo. Estar en una fila y revisarlo, sin motivo. Le tenemos fobia al aburrimiento. Y yo no quiero que mi relación con el celular sea algo que simplemente me sucede, porque si, porque está ahí. Quiero tener el control. Y me pregunto si estamos en el punto de inflexión. Así como alguna vez quisimos meter todo dentro del celular, ahora queremos volver a sacarlo. Volver a lo simple, al aburrimiento, a la conversación. 
+El podcast me hizo pensar en algo que siempre me da muchas vueltas en mi caebza, respecto a lo automático que se ha vuelto nuestro vínculo con el teléfono. Entrar al baño y tomarlo sin pensarlo. Estar en una fila y revisarlo, sin motivo. Le tenemos fobia al aburrimiento. Y yo no quiero que mi relación con el celular sea algo que simplemente me sucede, porque sí, porque está ahí. Quiero tener el control. Y me pregunto si estamos en el punto de inflexión. Así como alguna vez quisimos meter todo dentro del celular, ahora queremos volver a sacarlo. Volver a lo simple, al aburrimiento, a la conversación. 
 
 ---
 
@@ -28,7 +28,7 @@ No quiero que sea lo primero que veo al despertar ni lo último antes de dormir.
 Estoy considerando dejar mi celular como un “dumb phone” o al menos limitarme a lo básico: mensajes, correo, mapas. Nada de redes sociales ni scroll infinito. 
 
 **5. Tecnología contra tecnología.**  
-Hay una app llamada **OneSec** que te hace justificar por qué querés abrir una aplicación que distrae. Y también existen bases físicas que bloquean ciertas funciones del celular hasta que lo vuelves a conectar allí. Como un “cajón de llaves” digital para tu concentración.
+Hay una app llamada **OneSec** que te hace justificar por qué queieres abrir una aplicación que distrae. Y también existen bases físicas que bloquean ciertas funciones del celular hasta que lo vuelves a conectar allí. Como un “cajón de llaves” digital para tu concentración.
 
 A veces pienso que este es el verdadero fin del mundo. No una invasión de robots, sino una sociedad entera deprimida, adicta, ansiosa e insegura. Empresas que tienen incentivos económicos para que creamos que _necesitamos_ estas tecnologías para no quedarnos atrás: en lo laboral, en lo social, en lo humano.  
 
